@@ -56,45 +56,56 @@ career-profile:
       Second paragraph if required.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Post-doctoral researcher
+      time: 2017 - Present
+      company: CNRS - UMR7267, Poitiers
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        The aim of the project was to uncover the molecular genetic basis of microsporidia-
+        mediated feminization. It consist of comparing genomes of closely
+        related microsporidia inducing feminization or not in their hosts by sequencing
+        the genomes microsporidia species.
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research engineer
+      time: 2015 - 2016
+      company: Inserm - UMR1078 / CHRU Morvan, Brest
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The first part of the project was to develop Ion Torrent plugins to integrate
+        bioinformatics tools in cancer and non-invasive prenatal diagnosis. It also
+        include the establishment of an automated archive system of sequencing data.
+        The second part of the project was to evaluate the feasibility of using Whole
+        Genome Sequencing for clinical diagnosis. The last part of the project was to
+        establish the correlation between host genetic variations and impacts on the
+        microbiome in cystic fibrosis.
 
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: PhD
+      time: 2012 - 2015
+      company: UPMC - UMR8227 / Station Biologique de Roscoff, Roscoff
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Aims of my PhD were to reconstruct the sex chromosome and study genes that
+        are expressed specifically or preferentially in each of the two sexes. The structure
+        of the sex chromosomes was identified and compared with the autosomes to
+        study their particular evolution. RNA-seq data were used to identify the regulatory
+        and metabolic pathways involved in sex determination and differentiation in
+        this brown alga. The project include a complete re-annotation of the Ectocarpus
+        genome that was carried out at the VIB lab in Ghent and an identification of
+        small RNAs (mi, sno, lncRNA).
+
+          - Bullet point
+          - Bullet point
+
+    - role: Engineer
+      time: 2012
+      company: CNRS - ABiMS / Station Biologique de Roscoff, Roscoff
+      details: |
+        The aim of the project was to develop the utilization of the Galaxy platform
+        and integrate developed tools at the Station Biologique de Roscoff. This include
+        support for several bioanalysis projects.
 
           - Bullet point
           - Bullet point
@@ -113,33 +124,33 @@ education:
       time: 2007 - 2010
 
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -153,11 +164,11 @@ publications:
         authors: Lipinska A, Serrano M, Cormier A, Peters AF, Kogame K, Cock JM, Coelho SM
         conference: Genome Biology, 2019
 
-      - title: Performance of Semiconductor sequencing platform for non-invasive prenatal genetic screening for fetal aneuploidies: results from a multicenter prospective cohort study in a clinical setting
+      - title: "Performance of Semiconductor sequencing platform for non-invasive prenatal genetic screening for fetal aneuploidies: results from a multicenter prospective cohort study in a clinical setting"
         authors: Allach El Khattabi L, Brun S, Gueguen P, Chatron N, Guichoux E, Schutz S, Nectoux J, Sorlin A, Quere M, Boudjarane J, Tsatsaris V, Mandelbrot L, Schluth-Bolard C, Dupont JM, Rooryck C, Cormier A, Duboc V, Da Foncesca Pipoli J, Bonnet C, Lagarde A, Letourneur F, Jonveaux P, Bardel C, Paquis-Fluckinger V, Bannwarth S, Arveiler B, Badens C, Levy N, Goossens M, Vidaud M, Massardier J, Boureau-Wirth A, Saliou AH, Lacombe D, Sanlaville D, Ferec C
         conference: Ultrasound in Obstetrics & Gynecology, 2018
 
-      - title: The complete mitochondrial genome of Gammarus roeselii (Crustacea, Amphipoda): insights into mitogenome plasticity and evolution
+      - title: "The complete mitochondrial genome of Gammarus roeselii (Crustacea, Amphipoda): insights into mitogenome plasticity and evolution"
         authors: Cormier A, Wattier R, Teixeira M, Rigaud T, Cordaux R
         conference: Hydrobiologia, 2018
 
@@ -173,7 +184,7 @@ publications:
         authors: Cormier A, Avia K, Sterck L, Derrien T, Wucher V, Andres G, Monsoor, M, Godfroy O, Van De Peer Y, Hitte C, Corre E, Coelho SM and Cock JM
         conference: New Phytologist, 2016
 
-      - title: MicroRNAs and the evolution of complex multicellularity: identification of a large, diverse complement of microRNAs in the brown alga Ectocarpus
+      - title: "MicroRNAs and the evolution of complex multicellularity: identification of a large, diverse complement of microRNAs in the brown alga Ectocarpus"
         authors: Tarver EJ, Cormier A, Pinzón N, Taylor SR, Carré W, Strittmatter M, Seitz H, Coelho SM and Cock JM
         conference: Nucleic Acids Research, 2015
 
