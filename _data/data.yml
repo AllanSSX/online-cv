@@ -55,37 +55,6 @@ career-profile:
 
       Second paragraph if required.
 
-education:
-    - degree: PhD in Bioinformatic
-      university: Pierre and Marie Curie University (UPMC - Paris 6)
-      time: 2012 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: MSc in Bioinformatics
-      university: Rennes 1 University
-      time: 2010  - 2012 
-
-    - degree: BSc in Biology and Ecology
-      university: Catholic University of the West
-      time: 2007 - 2010
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -130,6 +99,20 @@ experiences:
           - Bullet point
           - Bullet point
 
+education:
+    - degree: PhD in Bioinformatic
+      university: Pierre and Marie Curie University (UPMC - Paris 6)
+      time: 2012 - 2015
+
+    - degree: MSc in Bioinformatics
+      university: Rennes 1 University
+      time: 2010  - 2012 
+
+    - degree: BSc in Biology and Ecology
+      university: Catholic University of the West
+      time: 2007 - 2010
+
+
 projects:
     title: Projects
     intro: >
@@ -160,45 +143,95 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Rapid turnover of life-cycle-related genes in the brown algae
+        authors: Lipinska A, Serrano M, Cormier A, Peters AF, Kogame K, Cock JM, Coelho SM
+        conference: Genome Biology, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Performance of Semiconductor sequencing platform for non-invasive prenatal genetic screening for fetal aneuploidies: results from a multicenter prospective cohort study in a clinical setting
+        authors: Allach El Khattabi L, Brun S, Gueguen P, Chatron N, Guichoux E, Schutz S, Nectoux J, Sorlin A, Quere M, Boudjarane J, Tsatsaris V, Mandelbrot L, Schluth-Bolard C, Dupont JM, Rooryck C, Cormier A, Duboc V, Da Foncesca Pipoli J, Bonnet C, Lagarde A, Letourneur F, Jonveaux P, Bardel C, Paquis-Fluckinger V, Bannwarth S, Arveiler B, Badens C, Levy N, Goossens M, Vidaud M, Massardier J, Boureau-Wirth A, Saliou AH, Lacombe D, Sanlaville D, Ferec C
+        conference: Ultrasound in Obstetrics & Gynecology, 2018
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The complete mitochondrial genome of Gammarus roeselii (Crustacea, Amphipoda): insights into mitogenome plasticity and evolution
+        authors: Cormier A, Wattier R, Teixeira M, Rigaud T, Cordaux R
+        conference: Hydrobiologia, 2018
+
+      - title: Heteroplasmy, structure and evolution of an atypical mitochondrial genome untangled by PacBio sequencing
+        authors: Peccoud J, Chebbi MA, Cormier A, Moumen B, Gilbert C, Marcadé I, Chandler C, Cordaux R
+        conference: Genetics, 2019
+
+      - title: High-density genetic map and identification of QTLs for responses to high temperature and low salinity stresses in the model alga Ectocarpus
+        authors: Avia K, Coelho SM, Montecinos G, Cormier A, Lerck F, Mauger S, Faugeron S, Valero M, Cock JM and Boudry P
+        conference: Scientific Reports, 2017
+
+      - title: Re-annotation, improved large-scale assembly and establishment of a catalogue of non-coding loci for the genome of the model brown alga Ectocarpus
+        authors: Cormier A, Avia K, Sterck L, Derrien T, Wucher V, Andres G, Monsoor, M, Godfroy O, Van De Peer Y, Hitte C, Corre E, Coelho SM and Cock JM
+        conference: New Phytologist, 2016
+
+      - title: MicroRNAs and the evolution of complex multicellularity: identification of a large, diverse complement of microRNAs in the brown alga Ectocarpus
+        authors: Tarver EJ, Cormier A, Pinzón N, Taylor SR, Carré W, Strittmatter M, Seitz H, Coelho SM and Cock JM
+        conference: Nucleic Acids Research, 2015
+
+      - title: Sexual dimorphism and the evolution of sex-biased gene expression in the brown alga Ectocarpus
+        authors: Cormier A§, Lipinska A§, Luthringer R, Peters AF, Corre E, Gachon CMM, Cock JM and Coelho SM
+        conference: Molecular Biology and Evolution, 2015
+
+      - title: Unique features of the pseudoautosomal region of the U/V sex chromosomes of the brown alga Ectocarpus
+        authors: Luthringer R§, Lipinska A§, Roze D, Cormier A, Macaisne N, Peters AF, Cock JM and Coelho SM
+        conference: Molecular Biology and Evolution, 2015
+
+      - title: Sexual dimorphism in the brown algae
+        authors: Luthringer R, Cormier A, Ahmed S, Peters AF, Cock JM and Coelho SM
+        conference: Perspectives in Phycology, 2014
+
+      - title: A Haploid System of Sex Determination in the Brown Alga Ectocarpus sp
+        authors: Ahmed S, Cock JM, Pessia E, Luthringer R, Cormier A, Robuchon M, Sterck L, Peters AF, Dittami SM, Corre E, Valero M, Aury JM, Roze D, Van De Peer Y, Bothwell J, Marais G and Coelho S
+        conference: Current Biology, 2014
+
+      - title: he genome of Ectocarpus subulatus, a highly stress-tolerant brown alga
+        authors: Dittami S, Corre E, Pontoizeau N, Guéguen L, Ait M, Avia K, Collén J, Cormier A, Delage L, Doubleau S, Frioux C, Gobet A, Gonzales I, Groisillier A, Hervé C, Jollivet D, KleinJan H, Leblanc C, Lipinska A, Liu X, Marie D, Markov G, Minoche A, Monsoor M, Perrineau MM, Peters A, Siegel A, Siméon A, Trottier C, Su Yoon H, Himmelbauer H, Boyen C, Tonon T
+        conference: Submitted
+
+      - title: Comparative genomics of three vertically transmitted microsporidia, including Nosema granulosis, a feminizing parasite of amphipod crustaceans
+        authors: Cormier A, Chebbi MA, Giraud I, Moumen B, Gilbert C, Wattier R, Teixeira M, Rigaud T, Cordaux R
+        conference: In preparation
+
+      - title: Chromosome-scale scaffolding the genome of Ectocarpus sp. using instaGRAAL, a leaner and faster version of the proximity ligation-based scaffolding program
+        authors: Baudry L, Marbouty M, Marie-Nelly H, Cormier A, Avia K, Sterck L, Cock M, Coelho S, Koszul R
+        conference: In preparation
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Bash
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Genomic
+        level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Transcriptomic
+        level: 90%
+
+      - name: WGS analysis
+        level: 80%
+
+      - name: Genome annotation
+        level: 95%
+
+      - name: Phylogenetic
+        level: 75%
+
+      - name: Illustrator / Photoshop
+        level: 55%
