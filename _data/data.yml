@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Alexandre Cormier
@@ -38,10 +38,10 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Fitness
         link:
 
-      - item: Cooking
+      - item: Video games
         link:
 
 career-profile:
@@ -56,9 +56,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Bioinformatic
+      university: Pierre and Marie Curie University (UPMC - Paris 6)
+      time: 2012 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,13 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MSc in Bioinformatics
+      university: Rennes 1 University
+      time: 2010  - 2012 
+
+    - degree: BSc in Biology and Ecology
+      university: Catholic University of the West
+      time: 2007 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
