@@ -31,9 +31,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-      #- idiom: Spanish
-      #  level: Professional
-
     interests:
       - item: Climbing
         link:
@@ -42,6 +39,12 @@ sidebar:
         link:
 
       - item: Video games
+        link:
+
+    references:
+      - item: Erwan CORRE
+              Head of ABIMS Plateforme
+              Station Biologique de Roscoff
         link:
 
 career-profile:
@@ -60,18 +63,20 @@ experiences:
       time: 2017 - Present
       company: CNRS - UMR7267, Poitiers
       details: |
+        Project : Genetic Bases and Evolutionary Consequences of Symbiont-Driven Sex Determination
+        
         The aim of the project was to uncover the molecular genetic basis of microsporidia-
         mediated feminization. It consist of comparing genomes of closely
         related microsporidia inducing feminization or not in their hosts by sequencing
         the genomes microsporidia species.
 
-          - Bullet point
-          - Bullet point
-
     - role: Research engineer
       time: 2015 - 2016
       company: Inserm - UMR1078 / CHRU Morvan, Brest
       details: |
+        Project: Evaluation and integration of bioinformatics tools for clinical diagnosis
+        and evaluation of Whole Genome Sequencing for pediatric diagnosis
+        
         The first part of the project was to develop Ion Torrent plugins to integrate
         bioinformatics tools in cancer and non-invasive prenatal diagnosis. It also
         include the establishment of an automated archive system of sequencing data.
@@ -80,13 +85,13 @@ experiences:
         establish the correlation between host genetic variations and impacts on the
         microbiome in cystic fibrosis.
 
-          - Bullet point
-          - Bullet point
-
     - role: PhD
       time: 2012 - 2015
       company: UPMC - UMR8227 / Station Biologique de Roscoff, Roscoff
       details: |
+        Project: Brown algae model for the evolutionary and functional analysis
+        of genetic sex determination
+        
         Aims of my PhD were to reconstruct the sex chromosome and study genes that
         are expressed specifically or preferentially in each of the two sexes. The structure
         of the sex chromosomes was identified and compared with the autosomes to
@@ -96,19 +101,15 @@ experiences:
         genome that was carried out at the VIB lab in Ghent and an identification of
         small RNAs (mi, sno, lncRNA).
 
-          - Bullet point
-          - Bullet point
-
     - role: Engineer
       time: 2012
       company: CNRS - ABiMS / Station Biologique de Roscoff, Roscoff
       details: |
+        Project: Development of workflow for data analysis under the Galaxy platform
+        
         The aim of the project was to develop the utilization of the Galaxy platform
         and integrate developed tools at the Station Biologique de Roscoff. This include
         support for several bioanalysis projects.
-
-          - Bullet point
-          - Bullet point
 
 education:
     - degree: PhD in Bioinformatic
@@ -122,35 +123,6 @@ education:
     - degree: BSc in Biology and Ecology
       university: Catholic University of the West
       time: 2007 - 2010
-
-
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -204,7 +176,7 @@ publications:
         authors: Ahmed S, Cock JM, Pessia E, Luthringer R, Cormier A, Robuchon M, Sterck L, Peters AF, Dittami SM, Corre E, Valero M, Aury JM, Roze D, Van De Peer Y, Bothwell J, Marais G and Coelho S
         conference: Current Biology, 2014
 
-      - title: he genome of Ectocarpus subulatus, a highly stress-tolerant brown alga
+      - title: The genome of Ectocarpus subulatus, a highly stress-tolerant brown alga
         authors: Dittami S, Corre E, Pontoizeau N, Guéguen L, Ait M, Avia K, Collén J, Cormier A, Delage L, Doubleau S, Frioux C, Gobet A, Gonzales I, Groisillier A, Hervé C, Jollivet D, KleinJan H, Leblanc C, Lipinska A, Liu X, Marie D, Markov G, Minoche A, Monsoor M, Perrineau MM, Peters A, Siegel A, Siméon A, Trottier C, Su Yoon H, Himmelbauer H, Boyen C, Tonon T
         conference: Submitted
 
@@ -220,6 +192,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Linux / Windows
+        level: 90%
+
       - name: Python
         level: 90%
 
