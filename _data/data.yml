@@ -44,6 +44,17 @@ sidebar:
       - item: Arts (theater, dance)
         link:
 
+career-profile:
+    title: Career Profile
+    summary: |
+      I'm Alexandre, a bioinformatics scientist with interests in DNA, genes, genomes, and software.
+      My current role focuses on genomics and evolution of smallest eukaryotic genomes.
+      My previous experiences covers a broad range of genomics research: developing pipeline for non-invasive
+      prenatal diagnosis and cancer diagnosis; assembling, annotating, and profiling the genomes of brown algae
+      for functional and evolutionary analysis of sex determination; integrating tools into Galaxy plateform
+      for Biologists.
+      I'm enthusiastic and follow the evolutions of sequencing technologies.
+
 experiences:
     - role: Post-doctoral researcher
       time: 2017 - Present
