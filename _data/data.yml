@@ -47,9 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm Alexandre, a bioinformatics scientist with interests in DNA, genes, genomes, and software.
+      I'm Alexandre, a bioinformatic scientist with interests in DNA, genes, genomes, and softwares.
       My current role focuses on genomics and evolution of smallest eukaryotic genomes.
-      My previous experiences covers a broad range of genomics research: developing pipeline for non-invasive
+      My previous experiences cover a broad range of genomics research: developing pipeline for non-invasive
       prenatal diagnosis and cancer diagnosis; assembling, annotating, and profiling the genomes of brown algae
       for functional and evolutionary analysis of sex determination; integrating tools into Galaxy plateform
       for Biologists.
@@ -62,10 +62,17 @@ experiences:
       details: |
         Project : Genetic Bases and Evolutionary Consequences of Symbiont-Driven Sex Determination
         
-        The aim of the project was to uncover the molecular genetic basis of microsporidia-
-        mediated feminization. It consist of comparing genomes of closely
-        related microsporidia inducing feminization or not in their hosts by sequencing
-        the genomes microsporidia species.
+        The aim of the project was to uncover the molecular genetic basis of microsporidia-mediated feminization.
+        It consists of comparing genomes of closely related microsporidia inducing feminization or not in their hosts
+        by sequencing the genomes of microsporidia species. It's also includ the genome assembly of
+        Armadillidium vulgare WulC an isopod with an insertion of the prokaryote genome Wolbachia.
+        
+        - Genome assembly (Illumina / PacBio) and/or annotation and NCBI submission (5 microsporidia, 1 amphipoda, 1 isopoda, 1 cyanidiale)
+        - Binning and oligonucleotide composition similarity
+        - Phylogenomic
+        - Cluster - Slurm and Environment Modules (as user and administrator)
+        - Python 3, virtual environment (Conda)
+        - Introduction to HiC for genome assembly throught a collaboration with Pasteur Institut
 
     - role: Research engineer
       time: 2015 - 2016
@@ -81,6 +88,13 @@ experiences:
         Genome Sequencing for clinical diagnosis. The last part of the project was to
         establish the correlation between host genetic variations and impacts on the
         microbiome in cystic fibrosis.
+        
+        - Whole Genome Sequencing
+        - Copy Number Variation and Structural variation analysis
+        - Object-oriented programming with Python, SnakeMake
+        - IonTorrent sequencing and API (Proton and PGM)
+        - Working in medical envrionnement and with human data
+        - Servers and storage management
 
     - role: PhD
       time: 2012 - 2015
@@ -90,13 +104,23 @@ experiences:
         of genetic sex determination
         
         Aims of my PhD were to reconstruct the sex chromosome and study genes that
-        are expressed specifically or preferentially in each of the two sexes. The structure
+        are expressed specifically or preferentially in each of the two sexes of Ectocarpus siliculosus. The structure
         of the sex chromosomes was identified and compared with the autosomes to
         study their particular evolution. RNA-seq data were used to identify the regulatory
         and metabolic pathways involved in sex determination and differentiation in
         this brown alga. The project include a complete re-annotation of the Ectocarpus
         genome that was carried out at the VIB lab in Ghent and an identification of
         small RNAs (mi, sno, lncRNA).
+        
+        - Transcriptomic analysis - de novo and with reference, counting, differential expression and validation (RT-qPCR)
+        - Genome assembly (Sanger, Roche 454, Illumina, PacBio) of 2 female and the sex chomosome of the male genome of Ectocarpus siliculosus
+        - Genome annotation of Ectocarpus subulatus and re-annotation of Ectocarpus siliculosus
+        - Statistics and graphics (R, ggplot2)
+        - Python 2, Perl, Bash, R
+        - Cluster - SGE
+        - Illustrations, mainly with Illustrator and a little bit with Photoshop
+        - Formations for students and researchers (Cluster initation, AVIESAN-IFB bioinformatic school, Linux scripting)
+        
 
     - role: Engineer
       time: 2012
@@ -107,6 +131,9 @@ experiences:
         The aim of the project was to develop the utilization of the Galaxy platform
         and integrate developed tools at the Station Biologique de Roscoff. This include
         support for several bioanalysis projects.
+        
+        - Transcriptomic analysis - de novo assembly and differential expression - of various species (krill, sea urchin, alligator)
+        - Galaxy (creation of wrapper)
 
 education:
     - degree: PhD in Bioinformatic
