@@ -82,7 +82,7 @@ experiences:
         and evaluation of Whole Genome Sequencing for pediatric diagnosis
         
         The first part of the project was to develop Ion Torrent plugins to integrate
-        bioinformatics tools in cancer and non-invasive prenatal diagnosis. It also
+        bioinformatics tools for cancer and non-invasive prenatal diagnosis. It also
         include the establishment of an automated archive system of sequencing data.
         The second part of the project was to evaluate the feasibility of using Whole
         Genome Sequencing for clinical diagnosis. The last part of the project was to
@@ -94,6 +94,7 @@ experiences:
         - Object-oriented programming with Python, SnakeMake
         - IonTorrent sequencing and API (Proton and PGM)
         - Working in medical envrionnement and with human data
+        - Interacting with several partners
         - Servers and storage management
 
     - role: PhD
@@ -113,7 +114,7 @@ experiences:
         small RNAs (mi, sno, lncRNA).
         
         - Transcriptomic analysis - de novo and with reference, counting, differential expression and validation (RT-qPCR)
-        - Genome assembly (Sanger, Roche 454, Illumina, PacBio) of 2 female and the sex chomosome of the male genome of Ectocarpus siliculosus
+        - Genome assembly (Sanger, Roche 454, Illumina, PacBio) of 2 females and the sex chomosome of the male genome of Ectocarpus siliculosus
         - Genome annotation of Ectocarpus subulatus and re-annotation of Ectocarpus siliculosus
         - Statistics and graphics (R, ggplot2)
         - Python 2, Perl, Bash, R
@@ -129,7 +130,7 @@ experiences:
         Project: Development of workflow for data analysis under the Galaxy platform
         
         The aim of the project was to develop the utilization of the Galaxy platform
-        and integrate developed tools at the Station Biologique de Roscoff. This include
+        and integrate developed tools at the Station Biologique de Roscoff. The mission include
         support for several bioanalysis projects.
         
         - Transcriptomic analysis - de novo assembly and differential expression - of various species (krill, sea urchin, alligator)
