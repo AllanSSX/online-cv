@@ -67,7 +67,7 @@ experiences:
         by sequencing the genomes of microsporidia species. It's also includ the genome assembly of
         Armadillidium vulgare WulC an isopod with an insertion of the prokaryote genome Wolbachia.
         
-        - Genome assembly (Illumina / PacBio) and/or annotation and NCBI submission of eukaryotic genomes (microsporidia, amphipoda, isopoda, cyanidiale), mitogenomes and virus 
+        - Genome assembly (Illumina / PacBio) and/or annotation and NCBI submission of eukaryotic genomes (microsporidia, amphipod, isopod, red and brown algae), mitogenomes and virus 
         - Binning and oligonucleotide composition similarity
         - Phylogenomic
         - Cluster - Slurm and Environment Modules (as user and administrator)
